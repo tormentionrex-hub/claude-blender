@@ -1,0 +1,11 @@
+{
+  "name": "blender",
+  "version": "1.0.0",
+  "description": "Control total de Blender desde Claude: abre Blender automáticamente en tu PC y crea/edita escenas 3D a partir de prompts e imágenes.",
+  "author": {
+    "name": "Christopher González"
+  },
+  "homepage": "https://github.com/tormentionrex-hub/claude-blender",
+  "license": "MIT",
+  "keywords": ["blender", "3d", "modeling", "render", "bpy", "mcp"]
+}
